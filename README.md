@@ -39,26 +39,12 @@ const Resikesh MR = {
 </details>
 #### 🤔 Who Is Resikesh MR  ?
 
-- 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Science from the University of Calicut,Kerala,India.
-- ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
-- 🔭 He is currently working with Multiple Open Source Projects
-- ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
-
-  > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
-
+- 🏫 He has completed his secondary education in Computer Science from Directorate of Higher Secondary Education Kerala.
+- 
+> Love IT and technology, not full-time,
+🐱‍💻 but when inspired or in the mood, dive right in
 
 <br>
-
-### **My Portfolio**:
-
-<a href="http://resikeshramachandran.rf.gd/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-
-### _**My Blogs**_:
-
-<a href="https://medium.com/@resikeshramachandran05"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</br>
-
-
 </details>
   <img src="https://profile-counter.glitch.me/RESIKESH/count.svg" />
 </p>
